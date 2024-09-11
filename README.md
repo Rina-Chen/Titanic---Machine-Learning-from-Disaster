@@ -1,2 +1,1 @@
-使用随机森林
-准确率为![Uploading image.png…]()
+使用随机森林.Score: 0.75598
